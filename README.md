@@ -27,5 +27,5 @@ const Ale = {
 
 <br>
   
-<a href="mailto:alexandro.aa86@gmail.com"><img alt="Gmail" src="https://user-images.githubusercontent.com/55930376/199876830-4fa15d72-ab6b-48f4-b231-4d9cd7b2471c.png"></a>&nbsp;  <a href="https://www.linkedin.com/in/oscaralejandrorios-93a"><img alt="LinkedIn" src="https://user-images.githubusercontent.com/55930376/199877147-046b08ba-e965-494d-a62c-4619ba015796.png"></a>&nbsp;  <a href="https://riosalejandro.github.io/"><img src="https://user-images.githubusercontent.com/55930376/199877745-4beb5aa7-55a3-4d69-940c-49d7a69e5695.png" ></a>
+<a href="mailto:alexandro.aa86@gmail.com"><img alt="Gmail" src="https://user-images.githubusercontent.com/55930376/199876830-4fa15d72-ab6b-48f4-b231-4d9cd7b2471c.png"></a>&nbsp;  <a href="https://www.linkedin.com/in/oscaralejandrorios-93a"><img alt="LinkedIn" src="https://user-images.githubusercontent.com/55930376/199877147-046b08ba-e965-494d-a62c-4619ba015796.png"></a>&nbsp;  <a href="https://riosalejandro.github.io/portafolio/"><img src="https://user-images.githubusercontent.com/55930376/199877745-4beb5aa7-55a3-4d69-940c-49d7a69e5695.png" ></a>
   
