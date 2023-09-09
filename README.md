@@ -11,9 +11,9 @@
 const Ale = {
   pronouns: "He" | "Him",
   technologies:{
-        language: ["Javascript", "Typescript"],
+        language: ["Javascript", "Typescript", "Java"],
         frontEnd: ["React", "StencilJs", "Html", "Css", "Sass", "Scss", "Bootstrap"],
-        backEnd:  ["Node", "Express"],
+        backEnd:  ["Node", "Express", "Springboot"],
         mobile:   ["Ionic", "React Native"],
         others:   ["Git", "Scrum"]
   }
