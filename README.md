@@ -9,7 +9,6 @@
 
 ```javascript
 const Ale = {
-  pronouns: "He" | "Him",
   technologies:{
         language: ["Javascript", "Typescript", "Java"],
         frontEnd: ["React", "StencilJs", "Html", "Css", "Sass", "Scss", "Bootstrap"],
