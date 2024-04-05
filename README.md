@@ -26,5 +26,5 @@ const Ale = {
 
 <br>
   
-<a href="https://www.linkedin.com/in/oscaralejandrorios-93a"><img alt="LinkedIn" src="https://user-images.githubusercontent.com/55930376/199877147-046b08ba-e965-494d-a62c-4619ba015796.png"></a>&nbsp;  <a href="https://riosalejandro.github.io/portafolio/"><img src="https://user-images.githubusercontent.com/55930376/199877745-4beb5aa7-55a3-4d69-940c-49d7a69e5695.png" ></a>
+<a href="https://www.linkedin.com/in/oscaralejandrorios-93a"><img alt="LinkedIn" src="https://user-images.githubusercontent.com/55930376/199877147-046b08ba-e965-494d-a62c-4619ba015796.png"></a>&nbsp;  <a href="https://riosalejandro.github.io/portafolioGit/"><img src="https://user-images.githubusercontent.com/55930376/199877745-4beb5aa7-55a3-4d69-940c-49d7a69e5695.png" ></a>
   
